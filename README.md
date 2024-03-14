@@ -1,5 +1,11 @@
-### Hi there 👋
+### Bonjour à tous ! 👋
+Je suis étudiant en informatique, actuellement en 2ème année de BUT.
 
+
+### Hi there ! 👋
+I'm a IT student in France, currently in my 2th grade of BUT.
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonErre&theme=default)
 <!--
 **SimonErre/SimonErre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
