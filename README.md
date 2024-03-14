@@ -9,7 +9,7 @@ I'm a IT student in France, currently in my 2th grade of BUT.
 - Python is my favorite langage 🐍
 - I'm a big car 🏎️ and video games 🎮 enthusiast 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonErre&theme=discord_old_blurple)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonErre&theme=discord_old_blurple) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimonErre&theme=discord_old_blurple)
 <!--
 **SimonErre/SimonErre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
