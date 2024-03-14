@@ -1,14 +1,14 @@
 ### Bonjour à tous ! 👋
 Je suis étudiant en informatique, actuellement en 2ème année de BUT.
 - Mon langage préféré est le python 🐍
-- Passionné de voiture 🏎️ et de jeux vidéos 🎮
+- Passionné de voiture 🏎️ et de jeux vidéos 🎮 <br>
 Je travaille actuellement sur mon Github
 
 
 ### Hi there ! 👋
 I'm a IT student in France, currently in my 2th grade of BUT.
 - Python is my favorite langage 🐍
-- I'm a big car 🏎️ and video games 🎮 enthusiast
+- I'm a big car 🏎️ and video games 🎮 enthusiast <br>
 I'm currently working on my Github profile
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SimonErre&theme=default) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=SimonErre&theme=default)
