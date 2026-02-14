@@ -1,5 +1,5 @@
 ### Bonjour à tous ! 👋
-Je suis étudiant en informatique, actuellement en 2ème année de BUT.
+Je suis étudiant en informatique, actuellement en 3ème année de BUT.
 - Mon langage préféré est le python 🐍
 - Passionné de voiture 🏎️ et de jeux vidéos 🎮 <br><br>
 Je travaille actuellement sur mon Github
