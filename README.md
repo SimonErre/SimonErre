@@ -6,7 +6,7 @@ Je travaille actuellement sur mon Github
 
 
 ### Hi there ! 👋
-I'm a IT student in France, currently in my 2th grade of BUT.
+I'm a IT student in France, currently in my 3rd grade of BUT.
 - Python is my favorite langage 🐍
 - I'm a big car 🏎️ and video games 🎮 enthusiast <br><br>
 I'm currently working on my Github profile
